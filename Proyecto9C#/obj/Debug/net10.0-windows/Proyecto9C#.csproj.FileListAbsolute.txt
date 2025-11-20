@@ -1,0 +1,16 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\bin\Debug\net10.0-windows\Proyecto9C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\bin\Debug\net10.0-windows\Proyecto9C#.deps.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\bin\Debug\net10.0-windows\Proyecto9C#.runtimeconfig.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\bin\Debug\net10.0-windows\Proyecto9C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\bin\Debug\net10.0-windows\Proyecto9C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C_.Form1.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.AssemblyInfoInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.AssemblyInfo.cs
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\refint\Proyecto9C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\Proyecto9C#.genruntimeconfig.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto9C#\obj\Debug\net10.0-windows\ref\Proyecto9C#.dll
