@@ -1,0 +1,16 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\bin\Debug\net10.0-windows\Proyecto13C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\bin\Debug\net10.0-windows\Proyecto13C#.deps.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\bin\Debug\net10.0-windows\Proyecto13C#.runtimeconfig.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\bin\Debug\net10.0-windows\Proyecto13C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\bin\Debug\net10.0-windows\Proyecto13C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C_.Form1.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.AssemblyInfoInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.AssemblyInfo.cs
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\refint\Proyecto13C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\Proyecto13C#.genruntimeconfig.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto13C#\obj\Debug\net10.0-windows\ref\Proyecto13C#.dll
