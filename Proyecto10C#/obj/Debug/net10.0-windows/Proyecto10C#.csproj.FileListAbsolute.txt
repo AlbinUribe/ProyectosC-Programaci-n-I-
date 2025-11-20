@@ -1,0 +1,16 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\bin\Debug\net10.0-windows\Proyecto10C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\bin\Debug\net10.0-windows\Proyecto10C#.deps.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\bin\Debug\net10.0-windows\Proyecto10C#.runtimeconfig.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\bin\Debug\net10.0-windows\Proyecto10C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\bin\Debug\net10.0-windows\Proyecto10C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C_.Form1.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.AssemblyInfoInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.AssemblyInfo.cs
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\refint\Proyecto10C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\Proyecto10C#.genruntimeconfig.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto10C#\obj\Debug\net10.0-windows\ref\Proyecto10C#.dll
