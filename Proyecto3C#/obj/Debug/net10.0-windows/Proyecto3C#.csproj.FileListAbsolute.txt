@@ -1,0 +1,16 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\bin\Debug\net10.0-windows\Proyecto3C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\bin\Debug\net10.0-windows\Proyecto3C#.deps.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\bin\Debug\net10.0-windows\Proyecto3C#.runtimeconfig.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\bin\Debug\net10.0-windows\Proyecto3C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\bin\Debug\net10.0-windows\Proyecto3C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C_.ScreenSaver.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.AssemblyInfoInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.AssemblyInfo.cs
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\refint\Proyecto3C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\Proyecto3C#.genruntimeconfig.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto3C#\obj\Debug\net10.0-windows\ref\Proyecto3C#.dll
