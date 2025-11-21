@@ -1,0 +1,17 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\bin\Debug\net10.0-windows\Proyecto12C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\bin\Debug\net10.0-windows\Proyecto12C#.deps.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\bin\Debug\net10.0-windows\Proyecto12C#.runtimeconfig.json
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\bin\Debug\net10.0-windows\Proyecto12C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\bin\Debug\net10.0-windows\Proyecto12C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C_.frmMain.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.AssemblyInfoInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.AssemblyInfo.cs
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\refint\Proyecto12C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C#.genruntimeconfig.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\ref\Proyecto12C#.dll
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto12C#\obj\Debug\net10.0-windows\Proyecto12C_.Form2.resources
