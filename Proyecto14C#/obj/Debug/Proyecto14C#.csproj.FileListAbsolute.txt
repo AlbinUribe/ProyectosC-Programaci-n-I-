@@ -1,0 +1,8 @@
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\bin\Debug\Proyecto14C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\bin\Debug\Proyecto14C#.pdb
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C#.csproj.AssemblyReference.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C_.Properties.Resources.resources
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C#.csproj.GenerateResource.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C#.csproj.CoreCompileInputs.cache
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C#.exe
+C:\Users\Zarter\OneDrive\Documents\Proyectos Programacion I\Proyecto14C#\obj\Debug\Proyecto14C#.pdb
